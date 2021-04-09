@@ -1,0 +1,4 @@
+recievesAFunction(() => {
+    return recievesAFunction();
+})
+recievesAFunction()
